@@ -1,6 +1,6 @@
 # 🕹️ ARM-PACMAN
 
-**ARM-PACMAN** is a minimalist, half-featured Pac-Man clone developed for the **ARM Cortex-M3 (v7)** architecture using the **Langtuger development board**. Written in **C (90%)** and **ARM Assembly (10%)**, this project demonstrates game development in a bare-metal embedded system with real-time joystick input and interrupt handling.
+**ARM-PACMAN** is a minimalist, half-featured Pac-Man clone developed for the **ARM Cortex-M3 (v7)** architecture using the **Landtiger development board**. Written in **C (90%)** and **ARM Assembly (10%)**, this project demonstrates game development in a bare-metal embedded system with real-time joystick input and interrupt handling.
 
 > ⚠️ Note: To build and run this project, you must install the [Keil MDK ARM Development Environment](https://www.keil.com/demo/eval/arm.htm). The project does not include `.uvprojx` files; you will create a new project and import the provided source code.
 
